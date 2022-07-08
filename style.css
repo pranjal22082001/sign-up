@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #fff;
+    
+} 
+.logo {
+    width: 1500px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    
+}
+img {
+    height: 34px;
+    width: 213px;
+    margin: 31px 638px;
+}
+.sign-up-form {
+    width: 500px;
+    height: 714px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 110px 470px;
+    text-align: center;
+}
+.sign-up-form h1 {
+    color: #000;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+.input-box{
+    
+    padding: 10px;
+    margin: 10px 0;
+    width: 70%;
+    border: 1px solid #999;
+    outline: none;
+}
+.setpassword{
+    background-color: #032e7d;
+    width: 70%;
+    padding: 10px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    
+
+}
+.link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.google-btn{
+    background-color: #fff;
+    border-width: 2px;
+    border-color: #032e7d;
+    text-decoration-color: #000;
+    padding: 5px 70px;
+    margin: 10px 0;
+    text-decoration-color: #032e7ds;
+}
+
+hr {
+    margin-top: 20px;
+    width: 80%;
+}
+.or{
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+.login {
+    color: #032e7d;
+}
+div{
+    margin-bottom: 10px;
+}
+label {
+    display: inline-block;
+}
